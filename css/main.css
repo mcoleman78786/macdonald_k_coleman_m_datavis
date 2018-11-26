@@ -1,0 +1,45 @@
+@charset "UTF-8";
+/* CSS Document */
+.title
+{
+	text-align: center;
+	font-size: 30px;
+}
+
+.canadaflag
+{
+	position: relative;
+	left: 160px;
+}
+
+.scatterpotcanada
+{
+	position: relative;
+	left: 250px;
+}
+
+.usaflag
+{
+	position:relative;
+	left: 160px;
+}
+
+.scatterpotusa
+{
+	position: relative;
+	left: 250px
+}
+
+.canadaheader
+{
+	color: red;
+	text-decoration: underline;
+	text-align: center;
+}
+
+.usaheader
+{
+	color: blue;
+	text-decoration: underline;
+	text-align: center;
+}
