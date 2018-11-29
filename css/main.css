@@ -1,21 +1,21 @@
 @charset "UTF-8";
 /* CSS Document */
+
+#siteContainer
+{
+	background-color: #fff;
+}
+
 .title
 {
 	text-align: center;
 	font-size: 30px;
 }
 
-.canadaflag
-{
-	position: relative;
-	left: 160px;
-}
-
 .scatterpotcanada
 {
 	position: relative;
-	left: 250px;
+	left: 10px;
 }
 
 .usaflag
@@ -27,19 +27,27 @@
 .scatterpotusa
 {
 	position: relative;
-	left: 250px
+	left: 10px
 }
 
 .canadaheader
 {
-	color: red;
-	text-decoration: underline;
-	text-align: center;
+	margin-left: 335px;
 }
 
 .usaheader
 {
-	color: blue;
-	text-decoration: underline;
+	margin-left: 335px;
+}
+
+#canada
+{
 	text-align: center;
+	color: red;
+}
+
+#usa
+{
+	text-align: center;
+	color: blue;
 }
