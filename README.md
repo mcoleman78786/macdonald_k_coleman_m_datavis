@@ -17,3 +17,8 @@ The bar graphs are comparing men and women and how many bronze medals each gende
 
 **Scatterplot**
 The scatterplot is the amount of medals won throughout the years
+
+**Made With**
+Python
+CSS3
+HTML5
